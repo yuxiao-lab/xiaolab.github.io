@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Xiao Lab Website
 
 Static GitHub Pages site for Xiao Lab at Fudan University.
