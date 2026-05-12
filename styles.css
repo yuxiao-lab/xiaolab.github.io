@@ -69,7 +69,7 @@ a {
   height: 40px;
   border-radius: 8px;
   color: #ffffff;
-  background: linear-gradient(135deg, var(--accent), #1c8e5f);
+  background: linear-gradient(135deg, var(--accent), #9370DB);
   font-weight: 800;
 }
 
